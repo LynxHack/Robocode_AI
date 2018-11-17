@@ -38,7 +38,7 @@ public class FnlBot extends AdvancedRobot {
     // Params
     public static final double learnRate = 0.1;
     public static final double discountRate = 0.9;
-    public static final double epsilon = 0.7;
+    public static final double epsilon = 0;
     private int laststate;
     private int lastaction;
     public static boolean notinit = true;
