@@ -1,15 +1,9 @@
-package fnl;
+package NNbot;
 
-import java.awt.*;
-import java.awt.geom.*;
-
-import java.io.*;
 import robocode.*;
-import robocode.AdvancedRobot;
-import robocode.ScannedRobotEvent;
 import robocode.util.Utils;
 
-import java.util.Scanner;
+import java.io.*;
 
 public class FnlBot extends AdvancedRobot {
     // Event reinforcement values, multiplier for adjustment
