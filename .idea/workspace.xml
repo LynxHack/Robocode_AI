@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3881c8c-3b77-4e90-a22f-4ff286640162" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Robocode/hs_err_pid5094.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NNbot/CommonInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NNbot/FnlBot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NNbot/LUTInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NNbot/NeuralNet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NNbot/NeuralNetInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NNbot/Offlinetrain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Robocode/config/robocode.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Robocode/config/robocode.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Robocode/config/window.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Robocode/config/window.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fnl/FnlBot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fnl/FnlBot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Robocode/robots/robot.database" beforeDir="false" afterPath="$PROJECT_DIR$/Robocode/robots/robot.database" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NNbot/FnlBot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NNbot/FnlBot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NNbot/NeuralNet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NNbot/NeuralNet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NNbot/Offlinetrain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NNbot/Offlinetrain.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,46 +17,49 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/MyRobots$Unnamed.ic" NAME="Unnamed Coverage Results" MODIFIED="1544234873692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-241124230">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.17" value="2" />
           <entry key="project.open.time.18" value="1" />
-          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.19" value="2" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.21" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="7" />
-          <entry key="java" value="42" />
+          <entry key="java" value="43" />
           <entry key="txt" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="7" />
-          <entry key="JAVA" value="42" />
+          <entry key="JAVA" value="43" />
           <entry key="PLAIN_TEXT" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="class" value="25" />
-          <entry key="java" value="10028" />
+          <entry key="java" value="16739" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CLASS" value="25" />
-          <entry key="JAVA" value="10028" />
+          <entry key="JAVA" value="16739" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -70,7 +70,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/NNbot/CommonInterface.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="60">
               <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -79,30 +79,35 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/NNbot/FnlBot.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="15">
+              <caret line="234" column="25" selection-start-line="234" selection-start-column="25" selection-end-line="234" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#13472#13473#0" expanded="true" />
-                <element signature="e#13511#13512#0" expanded="true" />
-                <element signature="e#13768#13769#0" expanded="true" />
-                <element signature="e#13806#13807#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/NNbot/Offlinetrain.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NNbot/NeuralNet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="25" column="23" lean-forward="true" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+            <state relative-caret-position="255">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NNbot/Offlinetrain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -111,19 +116,7 @@
         <entry file="file://$PROJECT_DIR$/src/NNbot/NeuralNetInterface.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/NNbot/NeuralNet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="22" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -168,20 +161,7 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>saveLut</find>
-      <find>save</find>
-      <find>normalizeAngle</find>
-      <find>angle</find>
-      <find>ang</find>
-      <find>numEnemyDistance</find>
-      <find>gunAction</find>
-      <find>fire</find>
-      <find>doAction</find>
-      <find>load</find>
-      <find>discountRate</find>
       <find>currmethod</find>
-      <find>LUTupdate</find>
-      <find>getmax_Q</find>
       <find>pickBestAction</find>
       <find>initialiseLUT</find>
       <find>numMyEnergy</find>
@@ -195,9 +175,22 @@
       <find>epsilon</find>
       <find>qlearn</find>
       <find>notinit</find>
-      <find>loadLUT</find>
       <find>savelutbool</find>
       <find>savefile</find>
+      <find>System.out.println</find>
+      <find>getmax_Q</find>
+      <find>System.out.</find>
+      <find>state</find>
+      <find>EnemyX</find>
+      <find>RobotX</find>
+      <find>hidden_out</find>
+      <find>loadLUT</find>
+      <find>LUTupdate</find>
+      <find>lastaction</find>
+      <find>System</find>
+      <find>Action</find>
+      <find>diffq</find>
+      <find>argA</find>
     </findStrings>
     <replaceStrings>
       <replace>Action</replace>
@@ -226,9 +219,9 @@
         <option value="$PROJECT_DIR$/src/hw2/HW2.java" />
         <option value="$PROJECT_DIR$/src/fnl/FnlBot.java" />
         <option value="$PROJECT_DIR$/src/NNbot/LUTInterface.java" />
+        <option value="$PROJECT_DIR$/src/NNbot/Offlinetrain.java" />
         <option value="$PROJECT_DIR$/src/NNbot/NeuralNet.java" />
         <option value="$PROJECT_DIR$/src/NNbot/FnlBot.java" />
-        <option value="$PROJECT_DIR$/src/NNbot/Offlinetrain.java" />
       </list>
     </option>
   </component>
@@ -247,8 +240,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -271,10 +262,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544004826937" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544426911743" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/qlearn" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -311,7 +304,7 @@
   </component>
   <component name="RunManager">
     <configuration name="Unnamed" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="NNbot.Offlinetrain" />
+      <option name="MAIN_CLASS_NAME" value="NNbot.FnlBot" />
       <module name="MyRobots" />
       <option name="VM_PARAMETERS" value="-Xmx512M -Dsun.io.useCanonCaches=false -Ddebug=true" />
       <method v="2">
@@ -351,9 +344,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="960" height="1039" extended-state="4" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22100656" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22647703" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -367,11 +359,11 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3296582" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49671772" weight="0.22491731" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50328225" side_tool="true" weight="0.22491731" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49671772" visible="true" weight="0.22491731" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5021882" side_tool="true" weight="0.3296582" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3296582" />
-      <window_info active="true" anchor="bottom" id="Run Dashboard" order="11" visible="true" weight="0.3296582" />
+      <window_info anchor="bottom" id="Run Dashboard" order="11" sideWeight="0.49781182" weight="0.3296582" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24945295" />
@@ -380,6 +372,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.32932165" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.16061899" />
     </layout>
     <layout-to-restore>
       <window_info id="Image Layers" order="0" />
@@ -456,9 +449,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -497,6 +487,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/NNbot/XOR_main.java" />
+    <entry file="file://$PROJECT_DIR$/src/NNbot/CommonInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NNbot/NeuralNet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NNbot/Offlinetrain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NNbot/NeuralNetInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NNbot/LUTInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/fnl/LUTInterface.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -510,65 +542,10 @@
     <entry file="file://$PROJECT_DIR$/bin/fnl/CommonInterface.class">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/NNbot/NeuralNetInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NNbot/CommonInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NNbot/NeuralNet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="22" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NNbot/LUTInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/NNbot/FnlBot.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#13472#13473#0" expanded="true" />
-            <element signature="e#13511#13512#0" expanded="true" />
-            <element signature="e#13768#13769#0" expanded="true" />
-            <element signature="e#13806#13807#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NNbot/XOR_main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="64" lean-forward="true" selection-end-line="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NNbot/Offlinetrain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="25" column="23" lean-forward="true" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+        <state relative-caret-position="15">
+          <caret line="234" column="25" selection-start-line="234" selection-start-column="25" selection-end-line="234" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
