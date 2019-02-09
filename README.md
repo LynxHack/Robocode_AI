@@ -7,7 +7,7 @@ Implemented Learning Methods:
 * Sarsa 
 * Neural Network Q-function approximation
 
-![Battlefield][Battlefield.png]
+![Battlefield](Battlefield.png)
 
 
 
