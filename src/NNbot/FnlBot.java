@@ -36,7 +36,7 @@ public class FnlBot extends AdvancedRobot {
     public final int qlearn = 1;
     public final int sarsa = 2;
     public final int neural = 3;
-    public int currmethod = qlearn;
+    public int currmethod = sarsa;
 
     // Params
     public static final double learnRate = 0.1;

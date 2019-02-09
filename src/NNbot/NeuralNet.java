@@ -20,7 +20,6 @@ public class NeuralNet {
     // Weight Storing Arrays
     private double[][] x2h_w, prev_x2h_w, tempx2h;
     private double[] h2y_w, prev_h2y_w, temph2y;
-
     private double[] hidden_out, initialHidden;
 
 
